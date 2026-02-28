@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+._*
+
+.env
+
+# User Data & Chats
+backend/workspace/USER.md
+backend/memory/MEMORY.md
+backend/sessions/*
+!backend/sessions/.gitkeep
